@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncExcelToGSheets", "SyncExcelToGSheets\SyncExcelToGSheets.csproj", "{918B8556-6592-4136-980F-796E95BCC128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918B8556-6592-4136-980F-796E95BCC128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918B8556-6592-4136-980F-796E95BCC128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918B8556-6592-4136-980F-796E95BCC128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918B8556-6592-4136-980F-796E95BCC128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D94F8D-B1A9-4A79-AA8E-3358E468D9BD}
+	EndGlobalSection
+EndGlobal
